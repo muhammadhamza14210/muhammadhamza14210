@@ -6,12 +6,12 @@
 - 🌐 View my portfolio at: https://muhammadhamza14210.vercel.app
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza14210&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza14210&theme=gradient)
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza14210&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza14210&hide_progress=false)
 <!---
 muhammadhamza14210/muhammadhamza14210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
