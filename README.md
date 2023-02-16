@@ -8,6 +8,6 @@
 muhammadhamza14210/muhammadhamza14210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/muhammadhamza14210/muhammadhamza14210/edit/main/README.md)
 --->
 <img width="1157" alt="Screen Shot 2023-01-20 at 4 23 49 PM" src="https://user-images.githubusercontent.com/63776709/213822531-e4c16b9a-c7c6-4de4-a0ed-3cd2f3518b18.png">
