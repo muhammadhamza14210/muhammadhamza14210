@@ -6,7 +6,7 @@
 - 🌐 View my portfolio at: https://muhammadhamza14210.vercel.app
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza14210&theme=gradient)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza14210&theme=tokyonight)
 
 
 
