@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m @muhammadhamza14210<br>- 👀 I’m interested in Data Science, Machine Learning, Artifical Intelligence and Software Development.<br>- 🌱 I’m currently learning Git, Python, C, HTML, CSS.<br>- 🌱 I’m currently working with Java, JavaScript, Julia, SQL, Python, C/C++, HTML, CSS, React.js, Next.js, Express.js, MongoDB, AndroidStudio and much more!<br>- 💞️ I’m looking to collaborate on group projects.<br>- 📫 How to reach me, reach me on my email : muhammadhamza14210@gmail.com<br>- 🌐 View my portfolio at: https://muhammadhamza14210.vercel.app
+<br>- 👋 Hi, I’m @muhammadhamza14210<br>- 👀 I’m interested in Data Science, Machine Learning, Artifical Intelligence and Software Development.<br>- 🌱 I’m currently working with Java, JavaScript, Julia, SQL, Python, C/C++, HTML, CSS, React.js, Next.js, Express.js, MongoDB, AndroidStudio and much more!<br>- 💞️ I’m looking to collaborate on group projects.<br>- 📫 How to reach me, reach me on my email : muhammadhamza14210@gmail.com<br>- 🌐 View my portfolio at: https://muhammadhamza14210.vercel.app
 
 
 ## 🌐 Socials:
